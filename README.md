@@ -11,7 +11,7 @@
 - **Self-Hosting & Privacy** → Running Pi-hole, WireGuard VPN, Unbound, and Plex (running natively on NAS) for network security and media streaming
 - **Moode Audio Setup** → Hosting Moode Audio on a Raspberry Pi for high-quality audio playback in the home network.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Work Environment**
 - **Monitoring:** Prometheus, Grafana, Node Exporter
@@ -24,7 +24,7 @@
 - **Audio Streaming:** Moode Audio (Raspberry Pi)
 
 ##  **Connect With Me**
-- **[LinkedIn](https://www.linkedin.com/in/alex-gorman-86653a301/)
+- **[LinkedIn](https://www.linkedin.com/in/alex-gorman-86653a301/)**
 
 ##  Future Plans
 - Expanding the Raspberry Pi monitoring system with alerting features
