@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm [Alex] 👋
+##  About Me
+- IT & Automation Specialist
+- Experienced with Linux, Raspberry Pi, Monitoring, and Automation
+- Building a fleet management system for Raspberry Pi devices
 
-<!--
-**gorman-ap/gorman-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  My Key Projects
+- **[Pi Fleet Monitoring](https://github.com/yourrepo)** → Automating updates, logs, and monitoring for Raspberry Pis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+- **Monitoring:** Prometheus, Grafana, Node Exporter
+- **Automation:** Ansible
+- **Networking:** Ubuntu Server, UFW, Fail2Ban
