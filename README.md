@@ -1,4 +1,4 @@
-# Hi, I'm [Alex] 👋
+# Hi, I'm Alex
 ##  About Me
 - IT & Automation Specialist
 - Experienced with Linux, Raspberry Pi, Monitoring, and Automation
